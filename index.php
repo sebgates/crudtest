@@ -46,7 +46,7 @@ include('includes/header.php');
 <h2>Happy days - test</h2>
 <aside>
 <!-- display a list of categories -->
-<h2>Categories</h2>
+<h2>Categories for my pet shop</h2>
 <nav>
 <ul>
 <?php foreach ($categories as $category) : ?>
